@@ -5,6 +5,12 @@ Inspect the progress toward the sprint goal
 Create a plan for the next 24 hours
 Optimize collaboration
 
+Product Backlog
+Sprint backlog 
+Increment- The latest potentially releasable version of your product 
+
+Definition of DONE- A shared understanding of completeness and release quality scrum team uses DONE as transparency of the increment
+
 The complexity of product development:
 Simple- Everything is known
 Complicated- More is known than unknown
@@ -20,9 +26,6 @@ Description
 Order
 Value
 Estimate
-
-Increment- The latest potentially releasable version of your product 
-Definition of DONE- A shared understanding of completeness and release quality scrum team uses DONE as transparency of the increment
 
 Transparency, Inspection, Adaptation are the 3 lesgs of empiricism
 
