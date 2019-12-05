@@ -1,3 +1,37 @@
+Scrum- A framework within which people can address complex adaptive problems.
+
+Daily Scrum: An opportunity for the dev team to: 
+Inspect the progress toward the sprint goal
+Create a plan for the next 24 hours
+Optimize collaboration
+
+The complexity of product development:
+Simple- Everything is known
+Complicated- More is known than unknown
+Complex- More is unknown than known 
+Chaotic- Very little is known
+
+Product Owner- Maximize values
+Dev Team- Produce "DONE" increment
+Scrum master- Promote scrum
+
+Every item sould have D.O.V.E
+Description
+Order
+Value
+Estimate
+
+Increment- The latest potentially releasable version of your product 
+Definition of DONE- A shared understanding of completeness and release quality scrum team uses DONE as transparency of the increment
+
+Transparency, Inspection, Adaptation are the 3 lesgs of empiricism
+
+Sprint: A container for all activities and the other scrum events, focus is all on DONE increment of value
+Sprint Planning: First event in a sprint, product backlog is inspected, the entire scrum teaam attends this
+Sprint Goal: What are we trying to achieve as a team
+Sprint Review: A collaborative working session focused on the increment
+Sprint Retrospective: Occurs between the sprint review and sprint planning, scrum team discuss what went well in the sprint
+
 Based on the principles of Scrum and the Agile Manifesto, Scrum.org provides comprehensive training, assessments and certifications to improve the profession of software delivery. Throughout the world, our solutions and community of Professional Scrum Trainers empower people and organizations to achieve agility through Scrum.  Ken Schwaber, the co-creator of Scrum, founded Scrum.org in 2009 as a global organization, dedicating himself to improving the profession of software delivery by reducing the gaps so the work and work products are dependable.
 
 "Why did you found Scrum.org?" I’ve been asked these questions countless times since I created Scrum.org last fall. This is the story of my journey with Scrum, starting with its creation, moving through the establishment and evolution and ending with my work with Scrum.org. This journey has been shaped by two opposing forces: the desire to do the right thing, and the desire to make money. I formed Scrum.org to refocus my efforts on doing the right thing.
